@@ -1,0 +1,5798 @@
+{
+  "intents": [
+    {
+      "intent": "AboutTest",
+      "examples": [
+        {
+          "text": "can you give me any tips?"
+        },
+        {
+          "text": "can you help me?"
+        },
+        {
+          "text": "give me more information about the test"
+        },
+        {
+          "text": "how I answer?"
+        },
+        {
+          "text": "how should I answer?"
+        },
+        {
+          "text": "How should I do the text?"
+        },
+        {
+          "text": "tell me about the test"
+        },
+        {
+          "text": "Tips"
+        },
+        {
+          "text": "what do I have to do?"
+        },
+        {
+          "text": "what I answer?"
+        },
+        {
+          "text": "what kind of answer you expect?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "AboutWar",
+      "examples": [
+        {
+          "text": "can we go outside?"
+        },
+        {
+          "text": "did war happen?"
+        },
+        {
+          "text": "is it safe outside?"
+        },
+        {
+          "text": "Nuclear Holocaust?"
+        },
+        {
+          "text": "war?"
+        },
+        {
+          "text": "was there a war?"
+        },
+        {
+          "text": "what happened?"
+        },
+        {
+          "text": "Why are we underground?"
+        },
+        {
+          "text": "Why can't we go outside?"
+        },
+        {
+          "text": "why we live in a vault?"
+        }
+      ],
+      "description": "Explain the great war"
+    },
+    {
+      "intent": "Evasive",
+      "examples": [
+        {
+          "text": "act as if"
+        },
+        {
+          "text": "back down"
+        },
+        {
+          "text": "can't be found"
+        },
+        {
+          "text": "can't be seen"
+        },
+        {
+          "text": "capitulate"
+        },
+        {
+          "text": "cry"
+        },
+        {
+          "text": "disappear"
+        },
+        {
+          "text": "don't care"
+        },
+        {
+          "text": "escape"
+        },
+        {
+          "text": "evasive"
+        },
+        {
+          "text": "fly"
+        },
+        {
+          "text": "fuck off"
+        },
+        {
+          "text": "furtive"
+        },
+        {
+          "text": "give up"
+        },
+        {
+          "text": "hide"
+        },
+        {
+          "text": "I cry and ask him to leave me alone"
+        },
+        {
+          "text": "I don't care"
+        },
+        {
+          "text": "I hide somewhere"
+        },
+        {
+          "text": "invisible"
+        },
+        {
+          "text": "leave"
+        },
+        {
+          "text": "leave me alone"
+        },
+        {
+          "text": "nobody can find me"
+        },
+        {
+          "text": "not my problem"
+        },
+        {
+          "text": "pretend"
+        },
+        {
+          "text": "quit"
+        },
+        {
+          "text": "renounce"
+        },
+        {
+          "text": "reset"
+        },
+        {
+          "text": "retreat"
+        },
+        {
+          "text": "run away"
+        },
+        {
+          "text": "shut up"
+        },
+        {
+          "text": "sneak"
+        },
+        {
+          "text": "stealth"
+        },
+        {
+          "text": "submit"
+        },
+        {
+          "text": "unseen"
+        },
+        {
+          "text": "why bother"
+        },
+        {
+          "text": "yield"
+        }
+      ],
+      "description": "reflect intent of avoiding the situation"
+    },
+    {
+      "intent": "Friendly",
+      "examples": [
+        {
+          "text": "aid her"
+        },
+        {
+          "text": "aid him"
+        },
+        {
+          "text": "aid it"
+        },
+        {
+          "text": "ask"
+        },
+        {
+          "text": "assist"
+        },
+        {
+          "text": "barter"
+        },
+        {
+          "text": "beg"
+        },
+        {
+          "text": "beneficial"
+        },
+        {
+          "text": "brace"
+        },
+        {
+          "text": "calm down"
+        },
+        {
+          "text": "calmly"
+        },
+        {
+          "text": "change"
+        },
+        {
+          "text": "cleanse"
+        },
+        {
+          "text": "collaborate"
+        },
+        {
+          "text": "come to the aid"
+        },
+        {
+          "text": "comprehend"
+        },
+        {
+          "text": "cuddle"
+        },
+        {
+          "text": "cure"
+        },
+        {
+          "text": "embrace"
+        },
+        {
+          "text": "exchange"
+        },
+        {
+          "text": "exhort"
+        },
+        {
+          "text": "friendly"
+        },
+        {
+          "text": "give assistance"
+        },
+        {
+          "text": "heal her"
+        },
+        {
+          "text": "heal him"
+        },
+        {
+          "text": "heal it"
+        },
+        {
+          "text": "Help her"
+        },
+        {
+          "text": "Help him"
+        },
+        {
+          "text": "help it"
+        },
+        {
+          "text": "help out"
+        },
+        {
+          "text": "hug"
+        },
+        {
+          "text": "I ask him WTF is he talking about"
+        },
+        {
+          "text": "implore"
+        },
+        {
+          "text": "I show him my shotgun and politely ask him to calm down"
+        },
+        {
+          "text": "lend a hand"
+        },
+        {
+          "text": "listen"
+        },
+        {
+          "text": "love"
+        },
+        {
+          "text": "make better"
+        },
+        {
+          "text": "make well"
+        },
+        {
+          "text": "negociate"
+        },
+        {
+          "text": "no violence"
+        },
+        {
+          "text": "offer"
+        },
+        {
+          "text": "offer a prayer"
+        },
+        {
+          "text": "peacefully"
+        },
+        {
+          "text": "plead"
+        },
+        {
+          "text": "politely"
+        },
+        {
+          "text": "pray"
+        },
+        {
+          "text": "protect her"
+        },
+        {
+          "text": "protect him"
+        },
+        {
+          "text": "protect them"
+        },
+        {
+          "text": "provide"
+        },
+        {
+          "text": "reason"
+        },
+        {
+          "text": "rehabilitate"
+        },
+        {
+          "text": "relax"
+        },
+        {
+          "text": "request"
+        },
+        {
+          "text": "respectfully"
+        },
+        {
+          "text": "restore"
+        },
+        {
+          "text": "speak"
+        },
+        {
+          "text": "supplicate"
+        },
+        {
+          "text": "support her"
+        },
+        {
+          "text": "support him"
+        },
+        {
+          "text": "support them"
+        },
+        {
+          "text": "trade"
+        },
+        {
+          "text": "treat"
+        },
+        {
+          "text": "understand"
+        },
+        {
+          "text": "without hurting anybody"
+        }
+      ],
+      "description": "Represent positive intentions towards the subject"
+    },
+    {
+      "intent": "Hostile",
+      "examples": [
+        {
+          "text": "anhilate"
+        },
+        {
+          "text": "anything"
+        },
+        {
+          "text": "attack her"
+        },
+        {
+          "text": "attack him"
+        },
+        {
+          "text": "attack it"
+        },
+        {
+          "text": "burn her"
+        },
+        {
+          "text": "burn him"
+        },
+        {
+          "text": "burn it"
+        },
+        {
+          "text": "gore"
+        },
+        {
+          "text": "hit her"
+        },
+        {
+          "text": "hit him"
+        },
+        {
+          "text": "hit his"
+        },
+        {
+          "text": "hurt"
+        },
+        {
+          "text": "impale"
+        },
+        {
+          "text": "I punch him in the face"
+        },
+        {
+          "text": "I shoot him in the arm with my rifle"
+        },
+        {
+          "text": "kick"
+        },
+        {
+          "text": "kill her"
+        },
+        {
+          "text": "kill him"
+        },
+        {
+          "text": "kill it"
+        },
+        {
+          "text": "perforate"
+        },
+        {
+          "text": "pierce"
+        },
+        {
+          "text": "punch her"
+        },
+        {
+          "text": "punch him"
+        },
+        {
+          "text": "punch it"
+        },
+        {
+          "text": "shoot her"
+        },
+        {
+          "text": "shoot him"
+        },
+        {
+          "text": "shoot his"
+        },
+        {
+          "text": "shoot it"
+        },
+        {
+          "text": "smash"
+        },
+        {
+          "text": "stab"
+        }
+      ],
+      "description": "Hostile responses with some degree of violence"
+    },
+    {
+      "intent": "startTest",
+      "examples": [
+        {
+          "text": "begin"
+        },
+        {
+          "text": "begin test"
+        },
+        {
+          "text": "go ahead"
+        },
+        {
+          "text": "I am ready"
+        },
+        {
+          "text": "I'm ready"
+        },
+        {
+          "text": "I want to begin"
+        },
+        {
+          "text": "let's do this"
+        },
+        {
+          "text": "ready"
+        },
+        {
+          "text": "start test"
+        },
+        {
+          "text": "yes"
+        }
+      ],
+      "description": "Command to initiate test"
+    },
+    {
+      "intent": "Undefined",
+      "examples": [
+        {
+          "text": "beat"
+        },
+        {
+          "text": "Outsmart"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "WhatIsVault",
+      "examples": [
+        {
+          "text": "about the Vault"
+        },
+        {
+          "text": "vault"
+        },
+        {
+          "text": "Vault?"
+        },
+        {
+          "text": "What do you mean by Vault?"
+        },
+        {
+          "text": "what is a vault?"
+        },
+        {
+          "text": "what is the Vault?"
+        }
+      ],
+      "description": "ask about the Vault before starting the test"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Afirmative",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "absolutely",
+            "alright",
+            "definitely",
+            "indeed",
+            "maybe",
+            "obviously",
+            "ok",
+            "okay",
+            "sure",
+            "surely",
+            "yeah"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Dialog",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "barter",
+          "synonyms": [
+            "bartering",
+            "trading"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "buy",
+          "synonyms": [
+            "acquire",
+            "donate",
+            "hire",
+            "invest",
+            "paid",
+            "pay",
+            "paying",
+            "pays",
+            "purchase",
+            "purchases",
+            "repay",
+            "resell",
+            "sell"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "call",
+          "synonyms": [
+            "apologise",
+            "apologize",
+            "ask",
+            "calls"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "chat",
+          "synonyms": [
+            "conversations",
+            "talk"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "coach",
+          "synonyms": [
+            "coaching",
+            "instructor",
+            "manager",
+            "trainer"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "conversation",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "convince",
+          "synonyms": [
+            "coerce",
+            "confront",
+            "impress",
+            "inform",
+            "persuade",
+            "tell",
+            "warn"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cry",
+          "synonyms": [
+            "cries",
+            "crying",
+            "laugh",
+            "moan",
+            "scream",
+            "weep"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "explain",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "express",
+          "synonyms": [
+            "expressing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "help",
+          "synonyms": [
+            "aid",
+            "empower",
+            "motivate",
+            "protect",
+            "save"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hug",
+          "synonyms": [
+            "cuddle",
+            "flirt",
+            "flirtation",
+            "flirting",
+            "flirts",
+            "hugged",
+            "hugging",
+            "hugs",
+            "kiss",
+            "kisses",
+            "kissing",
+            "smile",
+            "smiles",
+            "smiling"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "invite",
+          "synonyms": [
+            "applaud",
+            "congratulate",
+            "entertain",
+            "greet",
+            "invites",
+            "inviting",
+            "listen"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "pray",
+          "synonyms": [
+            "agrees",
+            "begged",
+            "begs",
+            "convinces",
+            "implore",
+            "implored",
+            "implores",
+            "imploring",
+            "persuades",
+            "pleads",
+            "prayed",
+            "prayer",
+            "prayers",
+            "praying",
+            "prays",
+            "supplication",
+            "thank"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "question",
+          "synonyms": [
+            "argument",
+            "debate",
+            "dilemma",
+            "questions"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "report",
+          "synonyms": [
+            "denounce"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "say",
+          "synonyms": [
+            "argue",
+            "conclude",
+            "hear",
+            "says"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "understand",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "yell",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Medicine",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "amputate",
+          "synonyms": [
+            "amputated",
+            "amputating",
+            "lacerated"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "clean",
+          "synonyms": [
+            "antiseptics",
+            "chlorhexidine",
+            "cleaned",
+            "cleaning",
+            "cleans",
+            "decontamination",
+            "disinfectant",
+            "disinfecting",
+            "disinfection",
+            "ointments",
+            "purifier",
+            "rinses",
+            "safe",
+            "sanitize",
+            "sanitizing",
+            "scrubbing",
+            "sterilizing",
+            "wash"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dose",
+          "synonyms": [
+            "dosage",
+            "doses",
+            "injections"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "drugs",
+          "synonyms": [
+            "acetaminophen",
+            "alprazolam",
+            "amitriptyline",
+            "amphetamines",
+            "antidepressants",
+            "atropine",
+            "barbiturates",
+            "benzodiazepines",
+            "carbamazepine",
+            "clonazepam",
+            "clonidine",
+            "codeine",
+            "cyclobenzaprine",
+            "depressants",
+            "dextromethorphan",
+            "diazepam",
+            "diphenhydramine",
+            "fluoxetine",
+            "gabapentin",
+            "haloperidol",
+            "hydrocodone",
+            "hydromorphone",
+            "hydroxyzine",
+            "ibuprofen",
+            "ketamine",
+            "knock out drops",
+            "lorazepam",
+            "mdma",
+            "medication",
+            "medications",
+            "methamphetamine",
+            "methylphenidate",
+            "metoclopramide",
+            "morphine",
+            "opiates",
+            "opioids",
+            "orphenadrine",
+            "oxycodone",
+            "painkillers",
+            "paracetamol",
+            "pethidine",
+            "phenobarbital",
+            "phenytoin",
+            "promethazine",
+            "scopolamine",
+            "sedatives",
+            "steroids",
+            "stimulants",
+            "topiramate",
+            "zolpidem"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "heal",
+          "synonyms": [
+            "healed",
+            "heals",
+            "reanimate",
+            "reanimates",
+            "recovers",
+            "recuperates",
+            "regenerate"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "mask",
+          "synonyms": [
+            "glove",
+            "gloves",
+            "masks"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "medicate",
+          "synonyms": [
+            "medicating"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "medicine",
+          "synonyms": [
+            "anaesthesiology",
+            "anesthesiology",
+            "bacteriology",
+            "biochemistry",
+            "cardiology",
+            "cardiothoracic",
+            "dentistry",
+            "dermatology",
+            "endocrinology",
+            "epidemiology",
+            "gastroenterology",
+            "geriatrics",
+            "gynaecological",
+            "gynaecology",
+            "gynecological",
+            "gynecology",
+            "haematology",
+            "hematology",
+            "hepatology",
+            "immunology",
+            "medical",
+            "microbiology",
+            "neonatology",
+            "nephrology",
+            "neurology",
+            "neuropathology",
+            "neurophysiology",
+            "neuropsychiatry",
+            "neuroradiology",
+            "neuroscience",
+            "neurosciences",
+            "neurosurgery",
+            "neurosurgical",
+            "obstetrical",
+            "obstetrics",
+            "oncology",
+            "ophthalmology",
+            "orthopaedics",
+            "orthopedics",
+            "osteopathy",
+            "otolaryngology",
+            "otorhinolaryngology",
+            "paediatric",
+            "paediatrics",
+            "parasitology",
+            "pathology",
+            "pediatric",
+            "pediatrics",
+            "pharmacology",
+            "pulmonology",
+            "radiology",
+            "rheumatology",
+            "subspecialty",
+            "traumatology",
+            "urologic",
+            "urology",
+            "virology"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "pills",
+          "synonyms": [
+            "aspirin",
+            "demerol",
+            "pill",
+            "sedatives",
+            "tranquilizers"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "poison",
+          "synonyms": [
+            "poisoned",
+            "poisons",
+            "toxins"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "protection",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "purify",
+          "synonyms": [
+            "cleanse",
+            "disinfect",
+            "nourish",
+            "sterilize"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "quarantine",
+          "synonyms": [
+            "decontaminated",
+            "quarantines"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "scalpel",
+          "synonyms": [
+            "bandage",
+            "bandages",
+            "forceps",
+            "hypodermic",
+            "needle",
+            "needles",
+            "scalpels",
+            "syringe",
+            "syringes",
+            "tweezers"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "treat",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "venom",
+          "synonyms": [
+            "mutagen",
+            "toxin",
+            "venomous",
+            "venoms",
+            "virus",
+            "viruses"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Negociate",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "borrow",
+          "synonyms": [
+            "acquire",
+            "borrowing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "bribe",
+          "synonyms": [
+            "blackmail",
+            "bribery",
+            "bribes",
+            "bribing",
+            "money",
+            "payment",
+            "ransom",
+            "ransoms",
+            "reward",
+            "rewards"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "change",
+          "synonyms": [
+            "changes",
+            "changing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "deal",
+          "synonyms": [
+            "agreeing",
+            "bargain",
+            "deals",
+            "negotiate"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "exchange",
+          "synonyms": [
+            "cooperation",
+            "exchanges",
+            "investment",
+            "investments",
+            "traders",
+            "transaction",
+            "transactions"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "trade",
+          "synonyms": [
+            "barter",
+            "bartering",
+            "dealer",
+            "dealers",
+            "mercantile",
+            "merchant",
+            "trader",
+            "trading"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Repair",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "assemble",
+          "synonyms": [
+            "construct",
+            "devise",
+            "fabricate",
+            "produce"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cistern",
+          "synonyms": [
+            "cisterns",
+            "sinkhole"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "clog",
+          "synonyms": [
+            "clogged",
+            "clogging",
+            "flood",
+            "flooded",
+            "flushed",
+            "inundate",
+            "inundated",
+            "inundating",
+            "inundation"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "disassemble",
+          "synonyms": [
+            "alter",
+            "build",
+            "create",
+            "customize",
+            "dismantle",
+            "install",
+            "modify",
+            "rearrange",
+            "rebuild",
+            "reconfigure",
+            "refurbish",
+            "remodel",
+            "renovate",
+            "repurpose"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "lock",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "lockpick",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "manipulate",
+          "synonyms": [
+            "alter",
+            "manipulating"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sandpaper",
+          "synonyms": [
+            "abrasives",
+            "adhesives",
+            "glue",
+            "glues",
+            "sanding",
+            "sealant"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sobotage",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Science",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "bot",
+          "synonyms": [
+            "aliens",
+            "androids",
+            "battlemechs",
+            "bots",
+            "droid",
+            "drones",
+            "mech",
+            "mecha",
+            "mechas",
+            "mechs",
+            "minion",
+            "minions",
+            "murderbots",
+            "robo",
+            "robos",
+            "robot",
+            "robotic",
+            "robots"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "chemicals",
+          "synonyms": [
+            "acid",
+            "acids"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "context",
+          "synonyms": [
+            "contexts",
+            "interpretation",
+            "interpretations",
+            "perspective",
+            "perspectives"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cook",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "high five",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "invention",
+          "synonyms": [
+            "innovations",
+            "inventions",
+            "inventor",
+            "technologies"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "keep the hand",
+          "synonyms": [
+            "keep it",
+            "like the hand"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "minerals",
+          "synonyms": [
+            "barite",
+            "bauxite",
+            "chalcopyrite",
+            "chromite",
+            "fluorspar",
+            "ilmenite",
+            "lignite",
+            "magnesite",
+            "manganese",
+            "mineral",
+            "molybdenite",
+            "plutonium",
+            "polymetallic",
+            "sulphides",
+            "uranium"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "monster",
+          "synonyms": [
+            "creature",
+            "creatures",
+            "dragon",
+            "ghouls",
+            "monsters",
+            "monstrous",
+            "undead",
+            "vampires",
+            "zombie",
+            "zombies",
+            "zombified"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "oil",
+          "synonyms": [
+            "coal",
+            "gas",
+            "gases",
+            "hydrocarbon",
+            "hydrocarbons",
+            "lng",
+            "methane",
+            "naphtha",
+            "oilfield",
+            "oils",
+            "perenco",
+            "petrochemical",
+            "petrochemicals",
+            "petroleum"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "poison",
+          "synonyms": [
+            "overdosage",
+            "overdose",
+            "poisoned",
+            "poisoning",
+            "poisonings",
+            "poisons"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "portal",
+          "synonyms": [
+            "droids",
+            "hyperdrive",
+            "hyperspace",
+            "mothership",
+            "portals",
+            "spaceship",
+            "spaceships",
+            "stargates",
+            "starships",
+            "teleportation",
+            "teleporter",
+            "teleporting",
+            "wormhole",
+            "wormholes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "potions",
+          "synonyms": [
+            "balms",
+            "elixir",
+            "elixirs",
+            "herbal",
+            "herbs",
+            "lotions",
+            "moisturizers",
+            "ointment",
+            "ointments",
+            "potion",
+            "shampoos"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "programing",
+          "synonyms": [
+            "decoding",
+            "encode",
+            "encoding",
+            "formatting",
+            "network",
+            "program",
+            "programme",
+            "programs",
+            "system"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "quantum",
+          "synonyms": [
+            "chamber",
+            "harmonizer",
+            "resonation"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "scientific",
+          "synonyms": [
+            "anthropology",
+            "bacteriology",
+            "biochemistry",
+            "bioengineering",
+            "biology",
+            "biomedical",
+            "biophysics",
+            "biostatistics",
+            "botany",
+            "chemistry",
+            "dermatology",
+            "economics",
+            "endocrinology",
+            "ethology",
+            "haematology",
+            "hematology",
+            "humanities",
+            "informatics",
+            "linguistics",
+            "mathematics",
+            "microbiology",
+            "neurobiology",
+            "neurochemistry",
+            "neuroendocrinology",
+            "neurology",
+            "neuropharmacology",
+            "neurophysiology",
+            "neuropsychiatry",
+            "neuropsychology",
+            "neuroscience",
+            "neurosciences",
+            "neurosurgery",
+            "pathology",
+            "philosophy",
+            "physics",
+            "physiology",
+            "psychiatry",
+            "psychobiology",
+            "psychopharmacology",
+            "sciences",
+            "sociology",
+            "theology",
+            "virology",
+            "zoology"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "venom",
+          "synonyms": [
+            "antivenom",
+            "neurotoxic",
+            "neurotoxin",
+            "neurotoxins",
+            "scorpion",
+            "toxin",
+            "toxins",
+            "venoms"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sneak",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "evade",
+          "synonyms": [
+            "deter",
+            "elude",
+            "forestall",
+            "minimize",
+            "mitigate",
+            "prevent"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "flee",
+          "synonyms": [
+            "abandon",
+            "capitulate",
+            "emigrate",
+            "escaping",
+            "evacuate",
+            "fleeing",
+            "run away"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "fuck off",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "hide",
+          "synonyms": [
+            "conceal",
+            "distract",
+            "escape",
+            "hiding"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ignore",
+          "synonyms": [
+            "deny",
+            "disobey"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sneak",
+          "synonyms": [
+            "infiltrate",
+            "lure",
+            "sneaks"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "steal",
+          "synonyms": [
+            "grab",
+            "retrieve",
+            "stealing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "steal from",
+          "synonyms": [
+            "take it from her",
+            "take it from him",
+            "take it from them"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "UnarmedCombat",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "bite",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "fist",
+          "synonyms": [
+            "claw",
+            "claws",
+            "fists",
+            "knuckle"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "kick",
+          "synonyms": [
+            "kicked",
+            "kicking",
+            "knocks",
+            "throw punch"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "pitcher",
+          "synonyms": [
+            "pitching",
+            "thrower"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "punch",
+          "synonyms": [
+            "elbow",
+            "elbows",
+            "jab",
+            "jabs",
+            "kicks",
+            "knees",
+            "punches",
+            "punching",
+            "smash",
+            "snap",
+            "throwing",
+            "uppercut",
+            "uppercuts"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "WeaponsBigGuns",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "bazooka",
+          "synonyms": [
+            "cannon",
+            "gatling",
+            "panzerfaust"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "bomb",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "burn",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "catcher",
+          "synonyms": [
+            "base",
+            "baseman"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dynamite",
+          "synonyms": [
+            "detonator",
+            "detonators",
+            "explosive",
+            "explosives",
+            "nitroglycerin",
+            "nitroglycerine",
+            "thermite",
+            "trinitrotoluene"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "explode",
+          "synonyms": [
+            "destroys",
+            "detonate",
+            "detonates",
+            "detonating",
+            "disintegrate",
+            "disintegrates",
+            "explodes",
+            "exploding",
+            "implode",
+            "incinerate",
+            "incinerating"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "fire",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "flamethrower",
+          "synonyms": [
+            "bazookas",
+            "flamethrowers",
+            "howitzer",
+            "panzerschreck",
+            "rocket"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "grenade",
+          "synonyms": [
+            "grenades",
+            "launcher",
+            "launchers"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "minigun",
+          "synonyms": [
+            "autocannon",
+            "autocannons",
+            "howitzers",
+            "miniguns"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "missile",
+          "synonyms": [
+            "ballistic missiles",
+            "icbm",
+            "missiles",
+            "warhead"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "WeaponsShortRange",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "amputate",
+          "synonyms": [
+            "amputated",
+            "amputating",
+            "amputation",
+            "amputations",
+            "behead",
+            "castrate",
+            "decapitate",
+            "decapitating",
+            "impale",
+            "mutilate",
+            "mutilating"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "batter",
+          "synonyms": [
+            "bat",
+            "batsman"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cut",
+          "synonyms": [
+            "chopping",
+            "cuts",
+            "cutting",
+            "rip",
+            "ripping",
+            "saw",
+            "sawed",
+            "sawing",
+            "slice",
+            "slicing",
+            "tearing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hammer",
+          "synonyms": [
+            "crowbar",
+            "crowbars",
+            "hammers",
+            "hatchets",
+            "knives",
+            "machete",
+            "machetes",
+            "pickaxes",
+            "screwdriver",
+            "screwdrivers",
+            "shovel",
+            "shovels",
+            "wrench",
+            "wrenches"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hitter",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "knife",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "scalpel",
+          "synonyms": [
+            "forceps",
+            "hypodermic",
+            "needle",
+            "needles",
+            "scalpels",
+            "suturing",
+            "tweezers"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sharp",
+          "synonyms": [
+            "sharpened",
+            "sharper"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "short range weapons",
+          "synonyms": [
+            "archers",
+            "arrow",
+            "arrows",
+            "axe",
+            "bow",
+            "bows",
+            "broadsword",
+            "crossbow",
+            "crossbows",
+            "dagger",
+            "daggers",
+            "halberd",
+            "katana",
+            "katanas",
+            "lances",
+            "maces",
+            "sabers",
+            "shuriken",
+            "slings",
+            "spear",
+            "sword",
+            "swords"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "WeaponsSmallGuns",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "coerce",
+          "synonyms": [
+            "blackmail",
+            "blackmailing",
+            "coercing",
+            "deceive",
+            "frighten",
+            "intimidate",
+            "intimidates",
+            "persuade",
+            "punish",
+            "terrorize",
+            "warn"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "gun",
+          "synonyms": [
+            "9mm",
+            "cannon",
+            "firearm",
+            "magnum",
+            "pistol",
+            "revolver",
+            "Uzi",
+            "weapon"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "menace",
+          "synonyms": [
+            "bloodthirsty",
+            "heartless",
+            "maniacal",
+            "merciless",
+            "murderous",
+            "pitiless",
+            "remorseless",
+            "threat"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "rifle",
+          "synonyms": [
+            "caliber",
+            "calibers",
+            "carbine",
+            "carbines",
+            "cartridges",
+            "firearms",
+            "handgun",
+            "handguns",
+            "karabiner",
+            "mausers",
+            "pistols",
+            "revolvers",
+            "rifles",
+            "semiautomatic",
+            "shotguns",
+            "submachine"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "shoot",
+          "synonyms": [
+            "blast"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_8_1625218256000",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "AnswerQ5",
+      "output": {},
+      "parent": "node_127_1624135281067",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_109_1624135279459"
+    },
+    {
+      "type": "standard",
+      "title": "Q6",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Question 6:\nOld Mr. Abernathy has locked himself in his quarters again, and you've been ordered to get him out. How do you proceed? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "conditions": "anything_else",
+      "dialog_node": "node_110_1624135279460"
+    },
+    {
+      "type": "standard",
+      "title": "AnswerQ4",
+      "output": {},
+      "parent": "node_144_1624135283698",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_126_1624135281065"
+    },
+    {
+      "type": "standard",
+      "title": "Q5",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Question 5:\nYour grandmother invites you to tea, but you're surprised when she gives you a pistol and orders you to kill another Vault resident. What do you do? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "conditions": "anything_else",
+      "dialog_node": "node_127_1624135281067"
+    },
+    {
+      "type": "standard",
+      "title": "AnswerQ3",
+      "output": {},
+      "parent": "node_161_1624135285824",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_143_1624135283697"
+    },
+    {
+      "type": "standard",
+      "title": "Q4",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Question 4:\nCongratulations! You made one of the Vault 101 baseball teams! Which position do you prefer? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "conditions": "anything_else",
+      "dialog_node": "node_144_1624135283698"
+    },
+    {
+      "type": "standard",
+      "title": "AnswerQ2",
+      "output": {},
+      "parent": "node_2_1622909669200",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_160_1624135285823"
+    },
+    {
+      "type": "standard",
+      "title": "Q3",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Question 3:\nYou discover a young boy lost in the lower levels of the Vault. He's hungry and frightened, but also appears to be in possession of stolen property. What do you do? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "conditions": "anything_else",
+      "dialog_node": "node_161_1624135285824"
+    },
+    {
+      "type": "standard",
+      "title": "Q2",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Question 2\nWhile working as an intern in the Clinic, a patient with a strange infection on his foot stumbles through the door. The infection is spreading at an alarming rate, but the doctor has stepped out for a while. What do you do? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "conditions": "anything_else",
+      "dialog_node": "node_2_1622909669200"
+    },
+    {
+      "type": "standard",
+      "title": "AnswerQ10",
+      "output": {},
+      "parent": "node_42_1624135268677",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_24_1624135265190"
+    },
+    {
+      "type": "standard",
+      "title": "TestCompleted",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good work! You have finished the test. Let me process your results..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "conditions": "anything_else",
+      "dialog_node": "node_25_1624135265192"
+    },
+    {
+      "type": "standard",
+      "title": "AnswerQ9",
+      "output": {},
+      "parent": "node_59_1624135271315",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_41_1624135268676"
+    },
+    {
+      "type": "standard",
+      "title": "Q10",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Question 10:\nAlert! Super-mutants are attacking with all their big guns. Casually you happen to be in the Vault's weapon arsenal. What do you do?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "conditions": "anything_else",
+      "dialog_node": "node_42_1624135268677"
+    },
+    {
+      "type": "standard",
+      "title": "AnswerQ8",
+      "output": {},
+      "parent": "node_76_1624135275504",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_58_1624135271314"
+    },
+    {
+      "type": "standard",
+      "title": "Q9",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Question 9:\nYou decide it would be fun to play a prank on your father. You enter his private restroom when no one is looking, and.... "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_58_1624135271314",
+      "conditions": "anything_else",
+      "dialog_node": "node_59_1624135271315"
+    },
+    {
+      "type": "standard",
+      "title": "AboutTest",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The GOAT Test will judge you on the skills you use. If you choose to react to a situation in a particular way that means you feel comfortable with your used abilities, and therefore are likely to respond the same way in similar situations. This will allow us to assign you the best possible role in the Vault for you.\nPlease note that we are testing your skills, not your morals. To understand your skills it is necessary that you explain not only your intentions but how would you carry them out.\nExample: \"I attack the enemy\" doesn't show any skill, but \"I punch the enemy in the face\" would show that you are good with unarmed combat."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#AboutTest",
+      "dialog_node": "node_6_1625219716292",
+      "previous_sibling": "node_8_1622906922947"
+    },
+    {
+      "type": "standard",
+      "title": "AnswerQ1",
+      "parent": "node_8_1622906922947",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_7_1622907883119"
+    },
+    {
+      "type": "standard",
+      "title": "AnswerQ7",
+      "output": {},
+      "parent": "node_93_1624135277600",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_75_1624135275504"
+    },
+    {
+      "type": "standard",
+      "title": "Q8",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Question 8:\nA fellow Vault 101 resident is in possession of a Grognak the Barbarian comic book, issue number 1. You want it. What's the best way to obtain it? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_75_1624135275504",
+      "conditions": "anything_else",
+      "dialog_node": "node_76_1624135275504"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Question 1:\nYou are approached by a frenzied Vault scientist, who yells, \"I'm going to put my quantum harmonizer in your photonic resonation chamber!\" What do you do? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#startTest",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1622906922947",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "About the Vault",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The Vault™ series of survival shelters is a type of hardened subterranean installation designed by Vault-Tec Corporation on contract with the U.S. government to protect a selected fragment of the United States population from nuclear holocaust so that America could be repopulated."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#WhatIsVault",
+      "dialog_node": "node_8_1625217061956",
+      "previous_sibling": "node_6_1625219716292"
+    },
+    {
+      "type": "standard",
+      "title": "About the war",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "On October 23, 2077, the world was devoured in flames as a result of The Great War, a global thermonuclear war caused by the Sino-American War. It resulted in the destruction of all participating nations and abroad, global disruption of the climate and billions of casualties as a result of nuclear blasts, exposure to radiation and the subsequent collapse of social and government structures, all within the span of just two hours. \nOnly those who sheltered in underground Vaults managed to survived to this day."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#AboutWar",
+      "dialog_node": "node_8_1625218256000",
+      "previous_sibling": "node_8_1625217061956"
+    },
+    {
+      "type": "standard",
+      "title": "AnswerQ6",
+      "output": {},
+      "parent": "node_110_1624135279460",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_92_1624135277600"
+    },
+    {
+      "type": "standard",
+      "title": "Q7",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Question 7:\nOh, no! You've been exposed to radiation, and a mutated hand has grown out of your stomach! What's the best course of treatment? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "conditions": "anything_else",
+      "dialog_node": "node_93_1624135277600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Medicine is always the solution"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "@Medicine",
+      "dialog_node": "response_100_1624135277600",
+      "previous_sibling": "response_99_1624135277600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "now you must be an inventor tourself!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "@Repair",
+      "dialog_node": "response_101_1624135277600",
+      "previous_sibling": "response_100_1624135277600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Weapons are powerful negociating tools right?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1622909669200"
+      },
+      "conditions": "@WeaponsSmallGuns",
+      "dialog_node": "response_10_1622996405403",
+      "previous_sibling": "node_2_1622909669200"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Subtle way to act"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "@sneak",
+      "dialog_node": "response_10_1624900945643",
+      "previous_sibling": "response_2_1624700707155"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Avoiding this kind of people is a good idea"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "#Evasive",
+      "dialog_node": "response_102_1624135277600",
+      "previous_sibling": "response_9_1624912213130"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Knowledge can also be a deadly weapon"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_103_1624135277600",
+      "previous_sibling": "response_101_1624135277600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "There is always a way to convince someone"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "@Negociate",
+      "dialog_node": "response_104_1624135277600",
+      "previous_sibling": "response_103_1624135277600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Beating him with science? you must be smart"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_105_1624135277600",
+      "previous_sibling": "response_104_1624135277600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You know your way with words"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "@Dialog",
+      "dialog_node": "response_106_1624135277600",
+      "previous_sibling": "response_105_1624135277600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I get your intention, but please explain HOW would you achieve that"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "#Friendly || #Hostile",
+      "dialog_node": "response_107_1624135277600",
+      "previous_sibling": "response_102_1624135277600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I didn't get anything you said"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "response_108_1624135277600",
+      "previous_sibling": "response_107_1624135277600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Granny would be proud"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "@WeaponsSmallGuns",
+      "dialog_node": "response_112_1624135279460",
+      "previous_sibling": "response_123_1624135279460"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "why waste bullets?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "@UnarmedCombat",
+      "dialog_node": "response_114_1624135279460",
+      "previous_sibling": "response_112_1624135279460"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "why waste bullets?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "@WeaponsShortRange",
+      "dialog_node": "response_116_1624135279460",
+      "previous_sibling": "response_114_1624135279460"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Avoiding this kind of people is a good idea"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1622909669200"
+      },
+      "conditions": "#Evasive",
+      "dialog_node": "response_1_1622908727362",
+      "previous_sibling": "response_6_1624911936997"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Actually you may know more science than this madman"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1622909669200"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_1_1622995000122",
+      "previous_sibling": "response_8_1622908717156"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I get your intention, but please explain HOW would you achieve that"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1622906922947"
+      },
+      "conditions": "#Friendly || #Hostile",
+      "dialog_node": "response_1_1623148061349",
+      "previous_sibling": "response_1_1622908727362"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I love your energy"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "@WeaponsBigGuns",
+      "dialog_node": "response_1_1624700865887",
+      "previous_sibling": "response_106_1624135277600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "After this we will take granny to the doctor and pretend that nothing happened"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "@Medicine",
+      "dialog_node": "response_117_1624135279460",
+      "previous_sibling": "response_116_1624135279460"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "now you must be an inventor tourself!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "@Repair",
+      "dialog_node": "response_118_1624135279460",
+      "previous_sibling": "response_117_1624135279460"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Avoiding this kind of people is a good idea"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "#Evasive",
+      "dialog_node": "response_119_1624135279460",
+      "previous_sibling": "response_10_1624900945643"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Knowledge can also be a deadly weapon"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_120_1624135279460",
+      "previous_sibling": "response_118_1624135279460"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "There is a price for everything!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "@Negociate",
+      "dialog_node": "response_121_1624135279460",
+      "previous_sibling": "node_110_1624135279460"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Beating him with science? you must be smart"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_122_1624135279460",
+      "previous_sibling": "response_120_1624135279460"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Granny should know this is not the way of solving things"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "@Dialog",
+      "dialog_node": "response_123_1624135279460",
+      "previous_sibling": "response_121_1624135279460"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I get your intention, but please explain HOW would you achieve that"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_127_1624135281067"
+      },
+      "conditions": "#Friendly || #Hostile",
+      "dialog_node": "response_124_1624135279460",
+      "previous_sibling": "response_119_1624135279460"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I didn't get anything you said"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_127_1624135281067"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "response_125_1624135279460",
+      "previous_sibling": "response_124_1624135279460"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Shoot for the stars!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_127_1624135281067"
+      },
+      "conditions": "@WeaponsSmallGuns",
+      "dialog_node": "response_129_1624135281067",
+      "previous_sibling": "node_127_1624135281067"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "good reflexes!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_127_1624135281067"
+      },
+      "conditions": "@UnarmedCombat",
+      "dialog_node": "response_131_1624135281067",
+      "previous_sibling": "response_129_1624135281067"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Home run!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_127_1624135281067"
+      },
+      "conditions": "@WeaponsShortRange",
+      "dialog_node": "response_133_1624135281067",
+      "previous_sibling": "response_131_1624135281067"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Medicine is always the solution"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_127_1624135281067"
+      },
+      "conditions": "@Medicine",
+      "dialog_node": "response_134_1624135281067",
+      "previous_sibling": "response_138_1624135281067"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "now you must be an inventor tourself!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_127_1624135281067"
+      },
+      "conditions": "@Repair",
+      "dialog_node": "response_135_1624135281067",
+      "previous_sibling": "response_136_1624135281067"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Not keen on sports? Don't worry, we don't have that much space to run underground..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_127_1624135281067"
+      },
+      "conditions": "#Evasive",
+      "dialog_node": "response_136_1624135281067",
+      "previous_sibling": "response_4_1624700192218"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sports and business blend well"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_127_1624135281067"
+      },
+      "conditions": "@Negociate",
+      "dialog_node": "response_138_1624135281067",
+      "previous_sibling": "response_135_1624135281067"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "bringing science to the court"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_127_1624135281067"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_139_1624135281067",
+      "previous_sibling": "response_134_1624135281067"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good speakers are more important than baseball players!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_127_1624135281067"
+      },
+      "conditions": "@Dialog",
+      "dialog_node": "response_140_1624135281067",
+      "previous_sibling": "response_139_1624135281067"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I get your intention, but please explain HOW would you achieve that"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "#Friendly || #Hostile",
+      "dialog_node": "response_141_1624135281067",
+      "previous_sibling": "response_8_1624912128839"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I didn't get anything you said"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "response_142_1624135281067",
+      "previous_sibling": "response_141_1624135281067"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well, that was... creative"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "@WeaponsSmallGuns",
+      "dialog_node": "response_146_1624135283698",
+      "previous_sibling": "node_144_1624135283698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Knock some sense into this mad man"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "@UnarmedCombat",
+      "dialog_node": "response_148_1624135283698",
+      "previous_sibling": "response_146_1624135283698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Interesting use of tools"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "@WeaponsShortRange",
+      "dialog_node": "response_149_1624135283698",
+      "previous_sibling": "response_148_1624135283698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "With your skills you can get him to a better shape"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "@Medicine",
+      "dialog_node": "response_151_1624135283698",
+      "previous_sibling": "response_149_1624135283698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "now you must be an inventor tourself!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "@Repair",
+      "dialog_node": "response_152_1624135283698",
+      "previous_sibling": "response_151_1624135283698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Avoiding this kind of people is a good idea"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "#Evasive",
+      "dialog_node": "response_153_1624135283698",
+      "previous_sibling": "response_152_1624135283698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Knowledge can also be a deadly weapon"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_154_1624135283698",
+      "previous_sibling": "response_153_1624135283698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You drive a hard bargain"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "@Negociate",
+      "dialog_node": "response_155_1624135283698",
+      "previous_sibling": "response_154_1624135283698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Beating him with science? you must be smart"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_156_1624135283698",
+      "previous_sibling": "response_155_1624135283698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You are so charismatic!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "@Dialog",
+      "dialog_node": "response_157_1624135283698",
+      "previous_sibling": "response_156_1624135283698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I get your intention, but please explain HOW would you achieve that"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "#Friendly || #Hostile",
+      "dialog_node": "response_158_1624135283698",
+      "previous_sibling": "response_5_1624700066190"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I didn't get anything you said"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "response_159_1624135283698",
+      "previous_sibling": "response_158_1624135283698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bullets are the best medicine"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "@WeaponsSmallGuns",
+      "dialog_node": "response_163_1624135285824",
+      "previous_sibling": "response_168_1624135285824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Not scared of getting your hands dirty"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "@UnarmedCombat",
+      "dialog_node": "response_165_1624135285824",
+      "previous_sibling": "response_174_1624135285824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nice way to remove infected tissue"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "@WeaponsShortRange",
+      "dialog_node": "response_167_1624135285824",
+      "previous_sibling": "response_163_1624135285824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We need more good doctors like you!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "@Medicine",
+      "dialog_node": "response_168_1624135285824",
+      "previous_sibling": "node_161_1624135285824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "now you must be an inventor tourself!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "@Repair",
+      "dialog_node": "response_169_1624135285824",
+      "previous_sibling": "response_165_1624135285824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Avoiding this kind of people is a good idea"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "#Evasive",
+      "dialog_node": "response_170_1624135285824",
+      "previous_sibling": "response_173_1624135285824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The Vault needs more smart people like you!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_171_1624135285824",
+      "previous_sibling": "response_167_1624135285824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You drive a hard bargain"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "@Negociate",
+      "dialog_node": "response_172_1624135285824",
+      "previous_sibling": "response_169_1624135285824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Beating him with science? you must be smart"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_173_1624135285824",
+      "previous_sibling": "response_172_1624135285824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "If medicine is not your thing you'd do well letting others take care of it"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "@Dialog",
+      "dialog_node": "response_174_1624135285824",
+      "previous_sibling": "response_171_1624135285824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I get your intention, but please explain HOW would you achieve that"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1622909669200"
+      },
+      "conditions": "#Friendly || #Hostile",
+      "dialog_node": "response_175_1624135285824",
+      "previous_sibling": "response_7_1624699637340"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I didn't get anything you said"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1622909669200"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "response_176_1624135285824",
+      "previous_sibling": "response_175_1624135285824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I love your energy"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "@WeaponsBigGuns",
+      "dialog_node": "response_2_1624700707155",
+      "previous_sibling": "response_7_1624700311479"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Maybe it will go away by itself"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_75_1624135275504",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_76_1624135275504"
+      },
+      "conditions": "@sneak",
+      "dialog_node": "response_2_1624912281830",
+      "previous_sibling": "response_89_1624135275504"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Fight for your life!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_25_1624135265192"
+      },
+      "conditions": "@WeaponsSmallGuns",
+      "dialog_node": "response_27_1624135265192",
+      "previous_sibling": "node_25_1624135265192"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You know how to use your hands"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_25_1624135265192"
+      },
+      "conditions": "@UnarmedCombat",
+      "dialog_node": "response_29_1624135265192",
+      "previous_sibling": "response_27_1624135265192"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "They may take our lives but they will never take our freedom!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_25_1624135265192"
+      },
+      "conditions": "@WeaponsShortRange",
+      "dialog_node": "response_31_1624135265192",
+      "previous_sibling": "response_35_1624135265192"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oh, it was a medical problem!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1622909669200"
+      },
+      "conditions": "@Medicine",
+      "dialog_node": "response_3_1622908712189",
+      "previous_sibling": "response_9_1623147781335"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "how creative!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_25_1624135265192"
+      },
+      "conditions": "@Medicine",
+      "dialog_node": "response_32_1624135265192",
+      "previous_sibling": "response_31_1624135265192"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "now you must be an inventor yourself!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_25_1624135265192"
+      },
+      "conditions": "@Repair",
+      "dialog_node": "response_33_1624135265192",
+      "previous_sibling": "response_32_1624135265192"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Avoiding Supermutants is a good idea"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_25_1624135265192"
+      },
+      "conditions": "#Evasive",
+      "dialog_node": "response_34_1624135265192",
+      "previous_sibling": "response_7_1624912422251"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The best solutions require smart people like you"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_25_1624135265192"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_35_1624135265192",
+      "previous_sibling": "response_38_1624135265192"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No one said you couldn't negociate with Supermutants"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_25_1624135265192"
+      },
+      "conditions": "@Negociate",
+      "dialog_node": "response_36_1624135265192",
+      "previous_sibling": "response_29_1624135265192"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I just hope they have enough brain to listen"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_25_1624135265192"
+      },
+      "conditions": "@Dialog",
+      "dialog_node": "response_38_1624135265192",
+      "previous_sibling": "response_36_1624135265192"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I get your intention, but please explain HOW would you achieve that"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_42_1624135268677"
+      },
+      "conditions": "#Friendly || #Hostile",
+      "dialog_node": "response_39_1624135265192",
+      "previous_sibling": "response_34_1624135265192"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I didn't get anything you said"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_42_1624135268677"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "response_40_1624135265192",
+      "previous_sibling": "response_39_1624135265192"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Knock some sense into this mad man"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1622909669200"
+      },
+      "conditions": "@UnarmedCombat",
+      "dialog_node": "response_4_1622997593319",
+      "previous_sibling": "response_10_1622996405403"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your balls are unstoppable!e!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_127_1624135281067"
+      },
+      "conditions": "@WeaponsBigGuns",
+      "dialog_node": "response_4_1624700192218",
+      "previous_sibling": "response_133_1624135281067"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Show them not to mess with Vault 101!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_25_1624135265192"
+      },
+      "conditions": "@WeaponsBigGuns",
+      "dialog_node": "response_4_1624716529667",
+      "previous_sibling": "response_33_1624135265192"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm not sure if he will like that"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_42_1624135268677"
+      },
+      "conditions": "@WeaponsSmallGuns",
+      "dialog_node": "response_44_1624135268677",
+      "previous_sibling": "response_52_1624135268677"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That will surprise him"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_42_1624135268677"
+      },
+      "conditions": "@UnarmedCombat",
+      "dialog_node": "response_46_1624135268677",
+      "previous_sibling": "response_44_1624135268677"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That will surprise him"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_42_1624135268677"
+      },
+      "conditions": "@WeaponsShortRange",
+      "dialog_node": "response_48_1624135268677",
+      "previous_sibling": "response_46_1624135268677"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Let's hope it doesn't kill him"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_42_1624135268677"
+      },
+      "conditions": "@Medicine",
+      "dialog_node": "response_49_1624135268677",
+      "previous_sibling": "response_48_1624135268677"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "How funny!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_42_1624135268677"
+      },
+      "conditions": "@Repair",
+      "dialog_node": "response_50_1624135268677",
+      "previous_sibling": "node_42_1624135268677"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, forget it"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_42_1624135268677"
+      },
+      "conditions": "#Evasive",
+      "dialog_node": "response_51_1624135268677",
+      "previous_sibling": "response_8_1624716480423"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Lovely!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1622909669200"
+      },
+      "conditions": "@Dialog",
+      "dialog_node": "response_5_1622908705015",
+      "previous_sibling": "response_6_1623148882076"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I love your energy"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "@WeaponsBigGuns",
+      "dialog_node": "response_5_1624700066190",
+      "previous_sibling": "response_6_1624912080033"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Very discreet"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_58_1624135271314",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_59_1624135271315"
+      },
+      "conditions": "@sneak",
+      "dialog_node": "response_5_1624717140203",
+      "previous_sibling": "response_69_1624135271315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Interesting approach!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_42_1624135268677"
+      },
+      "conditions": "@sneak",
+      "dialog_node": "response_5_1624912331088",
+      "previous_sibling": "response_51_1624135268677"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I just hope he doesn't get a heart attack"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_42_1624135268677"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_52_1624135268677",
+      "previous_sibling": "response_50_1624135268677"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You drive a hard bargain"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_42_1624135268677"
+      },
+      "conditions": "@Negociate",
+      "dialog_node": "response_53_1624135268677",
+      "previous_sibling": "response_49_1624135268677"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Let see if he punishes you after that"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_42_1624135268677"
+      },
+      "conditions": "@Dialog",
+      "dialog_node": "response_55_1624135268677",
+      "previous_sibling": "response_53_1624135268677"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I get your intention, but please explain HOW would you achieve that"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_59_1624135271315"
+      },
+      "conditions": "#Friendly || #Hostile",
+      "dialog_node": "response_56_1624135268677",
+      "previous_sibling": "response_5_1624912331088"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I didn't get anything you said"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_59_1624135271315"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "response_57_1624135268677",
+      "previous_sibling": "response_56_1624135268677"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Change the comic for some bullets"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_58_1624135271314",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_59_1624135271315"
+      },
+      "conditions": "@WeaponsSmallGuns",
+      "dialog_node": "response_61_1624135271315",
+      "previous_sibling": "response_72_1624135271315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good business!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1622909669200"
+      },
+      "conditions": "@Negociate",
+      "dialog_node": "response_6_1623148882076",
+      "previous_sibling": "response_1_1622995000122"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Easy!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1622909669200"
+      },
+      "conditions": "@sneak",
+      "dialog_node": "response_6_1624911936997",
+      "previous_sibling": "response_9_1624700610825"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Let someone else fix it!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "@sneak",
+      "dialog_node": "response_6_1624911990963",
+      "previous_sibling": "response_170_1624135285824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Not your problem right?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_143_1624135283697",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_144_1624135283698"
+      },
+      "conditions": "@sneak",
+      "dialog_node": "response_6_1624912080033",
+      "previous_sibling": "response_157_1624135283698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That will teach him"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_58_1624135271314",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_59_1624135271315"
+      },
+      "conditions": "@UnarmedCombat",
+      "dialog_node": "response_63_1624135271315",
+      "previous_sibling": "response_61_1624135271315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Violence is always the solution"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_58_1624135271314",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_59_1624135271315"
+      },
+      "conditions": "@WeaponsShortRange",
+      "dialog_node": "response_65_1624135271315",
+      "previous_sibling": "response_63_1624135271315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "With your pharmacology knowledge you are unstoppable"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_58_1624135271314",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_59_1624135271315"
+      },
+      "conditions": "@Medicine",
+      "dialog_node": "response_66_1624135271315",
+      "previous_sibling": "response_65_1624135271315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "now you must be an inventor tourself!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_58_1624135271314",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_59_1624135271315"
+      },
+      "conditions": "@Repair",
+      "dialog_node": "response_67_1624135271315",
+      "previous_sibling": "response_66_1624135271315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Avoiding this kind of people is a good idea"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_58_1624135271314",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_59_1624135271315"
+      },
+      "conditions": "#Evasive",
+      "dialog_node": "response_68_1624135271315",
+      "previous_sibling": "response_5_1624717140203"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Knowledge can also be a deadly weapon"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_58_1624135271314",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_59_1624135271315"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_69_1624135271315",
+      "previous_sibling": "response_67_1624135271315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Give him an offer he can't refuse"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_58_1624135271314",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_59_1624135271315"
+      },
+      "conditions": "@Negociate",
+      "dialog_node": "response_70_1624135271315",
+      "previous_sibling": "node_59_1624135271315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I love your energy!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_160_1624135285823",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_161_1624135285824"
+      },
+      "conditions": "@WeaponsBigGuns",
+      "dialog_node": "response_7_1624699637340",
+      "previous_sibling": "response_6_1624911990963"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I love your energy!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_109_1624135279459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_110_1624135279460"
+      },
+      "conditions": "@WeaponsBigGuns",
+      "dialog_node": "response_7_1624700311479",
+      "previous_sibling": "response_122_1624135279460"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Say goodbye to the Vault!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_24_1624135265190",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_25_1624135265192"
+      },
+      "conditions": "@sneak",
+      "dialog_node": "response_7_1624912422251",
+      "previous_sibling": "response_4_1624716529667"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You have a silver tongue"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_58_1624135271314",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_59_1624135271315"
+      },
+      "conditions": "@Dialog",
+      "dialog_node": "response_72_1624135271315",
+      "previous_sibling": "response_70_1624135271315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I get your intention, but please explain HOW would you achieve that"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_58_1624135271314",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_76_1624135275504"
+      },
+      "conditions": "#Friendly || #Hostile",
+      "dialog_node": "response_73_1624135271315",
+      "previous_sibling": "response_68_1624135271315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I didn't get anything you said"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_58_1624135271314",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_76_1624135275504"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "response_74_1624135271315",
+      "previous_sibling": "response_73_1624135271315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A bullet is the best medicine"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_75_1624135275504",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_76_1624135275504"
+      },
+      "conditions": "@WeaponsSmallGuns",
+      "dialog_node": "response_78_1624135275504",
+      "previous_sibling": "response_86_1624135275504"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That arm could be used for fighting too"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_75_1624135275504",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_76_1624135275504"
+      },
+      "conditions": "@UnarmedCombat",
+      "dialog_node": "response_80_1624135275504",
+      "previous_sibling": "response_82_1624135275504"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "now you must be an inventor tourself!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1622909669200"
+      },
+      "conditions": "@Repair",
+      "dialog_node": "response_8_1622908717156",
+      "previous_sibling": "response_3_1622908712189"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I love your energy"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1624135268676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_42_1624135268677"
+      },
+      "conditions": "@WeaponsBigGuns",
+      "dialog_node": "response_8_1624716480423",
+      "previous_sibling": "response_55_1624135268677"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sports are dumb"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_126_1624135281065",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_127_1624135281067"
+      },
+      "conditions": "@sneak",
+      "dialog_node": "response_8_1624912128839",
+      "previous_sibling": "response_140_1624135281067"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Let's cut the problem from the root!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_75_1624135275504",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_76_1624135275504"
+      },
+      "conditions": "@WeaponsShortRange",
+      "dialog_node": "response_82_1624135275504",
+      "previous_sibling": "response_78_1624135275504"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nowadays, there is a treatment for everything"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_75_1624135275504",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_76_1624135275504"
+      },
+      "conditions": "@Medicine",
+      "dialog_node": "response_83_1624135275504",
+      "previous_sibling": "response_80_1624135275504"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "now you must be an inventor tourself!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_75_1624135275504",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_76_1624135275504"
+      },
+      "conditions": "@Repair",
+      "dialog_node": "response_84_1624135275504",
+      "previous_sibling": "response_83_1624135275504"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Avoiding this kind of people is a good idea"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_75_1624135275504",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_76_1624135275504"
+      },
+      "conditions": "#Evasive",
+      "dialog_node": "response_85_1624135275504",
+      "previous_sibling": "response_84_1624135275504"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You are not afraid of experimenting"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_75_1624135275504",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_76_1624135275504"
+      },
+      "conditions": "@Science",
+      "dialog_node": "response_86_1624135275504",
+      "previous_sibling": "node_76_1624135275504"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You drive a hard bargain"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_75_1624135275504",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_76_1624135275504"
+      },
+      "conditions": "@Negociate",
+      "dialog_node": "response_87_1624135275504",
+      "previous_sibling": "response_85_1624135275504"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't thought you'd be able to speak your way out of this situation"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_75_1624135275504",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_76_1624135275504"
+      },
+      "conditions": "@Dialog",
+      "dialog_node": "response_89_1624135275504",
+      "previous_sibling": "response_87_1624135275504"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I get your intention, but please explain HOW would you achieve that"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_75_1624135275504",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "#Friendly || #Hostile",
+      "dialog_node": "response_90_1624135275504",
+      "previous_sibling": "response_2_1624912281830"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I didn't get anything you said"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_75_1624135275504",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "response_91_1624135275504",
+      "previous_sibling": "response_90_1624135275504"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You handled that well"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1622909669200"
+      },
+      "conditions": "@WeaponsShortRange",
+      "dialog_node": "response_9_1623147781335",
+      "previous_sibling": "response_4_1622997593319"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I didn't get anything you said"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1622906922947"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "response_9_1623148031951",
+      "previous_sibling": "response_1_1623148061349"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I love your energy"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1622907883119",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1622909669200"
+      },
+      "conditions": "@WeaponsBigGuns",
+      "dialog_node": "response_9_1624700610825",
+      "previous_sibling": "response_5_1622908705015"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Let the old cot rot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "@sneak",
+      "dialog_node": "response_9_1624912213130",
+      "previous_sibling": "response_1_1624700865887"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Everything can be solved with some shooting"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "@WeaponsSmallGuns",
+      "dialog_node": "response_95_1624135277600",
+      "previous_sibling": "node_93_1624135277600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Using your hands is great"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "@UnarmedCombat",
+      "dialog_node": "response_97_1624135277600",
+      "previous_sibling": "response_95_1624135277600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Interesting use of tools"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_92_1624135277600",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_93_1624135277600"
+      },
+      "conditions": "@WeaponsShortRange",
+      "dialog_node": "response_99_1624135277600",
+      "previous_sibling": "response_97_1624135277600"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome to the Vault!\nThe Generalized Occupational Aptitude Test (G.O.A.T.) is a Vault-Tec occupational assessment test that every resident of a vault is required to take at the age of 16"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Are you ready to start? You won't be allowed to ask questions once the test has started"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "digress_in": "does_not_return",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "defeat him with science"
+    },
+    {
+      "text": "heal him with desinfectant"
+    }
+  ],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "goatSkill",
+  "language": "en",
+  "description": ""
+}
